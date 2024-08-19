@@ -101,7 +101,7 @@ h3 {
     font-weight: bold;
 }
 
-.bnt {
+.btn {
     display: block;
     width: 100%;
     text-align: center;
@@ -114,7 +114,7 @@ h3 {
     transition: background-color 0.3s ease-in-out;
 }
 
-.bnt:hover {
+.btn:hover {
     background-color: #644800;
 }
 
@@ -135,7 +135,7 @@ footer {
     }
 }
 
-@media (max-width: 600px) { /* Ajuste a largura conforme necessário */
+@media (max-width: 600px) { 
     .card {
         max-width: 100%;
         margin: 2% 0;
