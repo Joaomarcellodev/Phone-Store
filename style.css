@@ -61,27 +61,27 @@ header h1 {
 }
 
 #img-1 {
-    background-image: url('/img/img1.png');
+    background-image: url('img/img1.png');
 }
 
 #img-2 {
-    background-image: url('/img/img2.png');
+    background-image: url('img/img2.png');
 }
 
 #img-3 {
-    background-image: url('/img/img3.png');
+    background-image: url('img/img3.png');
 }
 
 #img-4 {
-    background-image: url('/img/img4.png');
+    background-image: url('img/img4.png');
 }
 
 #img-5 {
-    background-image: url('/img/img5.png');
+    background-image: url('img/img5.png');
 }
 
 #img-6 {
-    background-image: url('/img/img6.png');
+    background-image: url('img/img6.png');
 }
 
 h3 {
@@ -135,7 +135,7 @@ footer {
     }
 }
 
-@media (max-width: 600px) { /* Ajuste a largura conforme necessário */
+@media (max-width: 600px) { 
     .card {
         max-width: 100%;
         margin: 2% 0;
