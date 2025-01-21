@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-    <img style="max-width: 100%; height: auto;" height="196" src="https://github.com/Joaomarcellodev/Phone-Store/blob/main/img_gif/cellphone.gif?raw=true" alt="GIF do celular" />
+    <img height="200" width= auto; src="https://github.com/Joaomarcellodev/Phone-Store/blob/main/img_gif/cellphone.gif?raw=true" alt="GIF do celular" />
 </div>
 
 ###
