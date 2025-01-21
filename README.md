@@ -25,16 +25,7 @@
 ###
 
 <div align="center">
-  <img class="responsive-gif" height="196" src="https://github.com/Joaomarcellodev/Phone-Store/blob/main/img_gif/cellphone.gif?raw=true"  />
+    <img style="max-width: 100%; height: auto;" height="196" src="https://github.com/Joaomarcellodev/Phone-Store/blob/main/img_gif/cellphone.gif?raw=true" alt="GIF do celular" />
 </div>
-
-<style>
-  .responsive-gif {
-    max-width: 100%;
-    height: auto;    
-    display: block;  
-    margin: 0 auto;  
-  }
-</style>
 
 ###
