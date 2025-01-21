@@ -25,7 +25,15 @@
 ###
 
 <div align="center">
-  <img height="196" src="https://github.com/Joaomarcellodev/Phone-Store/blob/main/img_gif/cellphone.gif?raw=true"  />
+  <img class="responsive-gif" height="196" src="https://github.com/Joaomarcellodev/Phone-Store/blob/main/img_gif/cellphone.gif?raw=true"  />
 </div>
+
+<style>
+  .responsive-gif {
+    max-width: 100%;
+    height: auto;    
+    display: block;  
+    margin: 0 auto;  
+  }
 
 ###
